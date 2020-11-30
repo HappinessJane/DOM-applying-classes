@@ -20,7 +20,7 @@ function one () {
 
 // CREATE FUNCTION two HERE
 function two() {
-  var one = document.getElementById('one')
+  var two = document.getElementById('two')
   two.classList.add('green')
 }
 // CREATE FUNCTION three HERE
