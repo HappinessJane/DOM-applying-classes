@@ -36,3 +36,5 @@ function makeVisible() {
   var makeVisible = document.getElementsByClassName('invisible')[0]
   makeVisible.classList.add('visible')
 }
+
+// YOOOOOO turns out if you read the documentation it helps you out!!
